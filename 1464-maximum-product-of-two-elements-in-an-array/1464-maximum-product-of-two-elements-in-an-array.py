@@ -5,7 +5,5 @@ class Solution(object):
         :rtype: int
         """
         nums.sort()
-        i = nums[-1]
-        j = nums[-2]
-        return (i-1)*(j-1)
+        return (nums[-1]-1)*(nums[-2]-1)
         
