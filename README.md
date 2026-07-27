@@ -19,8 +19,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Sorting
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
