@@ -9,5 +9,5 @@ class Solution(object):
             return (nums.index(target))
         else:
             nums.append(target)
-            lst = sorted(nums)
-            return (lst.index(target))
+            nums = sorted(nums)
+            return (nums.index(target))
