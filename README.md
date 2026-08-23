@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Trie
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/pradumgoyal15/Leetcode_solutions/tree/master/0088-merge-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
